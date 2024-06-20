@@ -1,0 +1,1 @@
+console.log("Script.js foi carregado com sucesso!");
